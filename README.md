@@ -29,3 +29,4 @@ Mit [Merge pull Request] werden die Änderungen zusammengeführt.
 Wenn keine Konflikte auftreten können mit [Confirm merge] die Änderungen zusammengeführt werden.
 Nachdem nun die Änderungne in den masterbranch übernommen wurden kann der featurebranch mit [Delete branch] gelöscht werden.
 
+mit token
